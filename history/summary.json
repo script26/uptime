@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.bzmb.eu.ico",
     "slug": "img",
     "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 6043,
     "timeDay": 6043,
     "timeWeek": 6043,
     "timeMonth": 6043,
     "timeYear": 6043,
     "dailyMinutesDown": {
-      "2024-12-30": 175
+      "2024-12-30": 185
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vid.bzmb.eu.ico",
     "slug": "vid",
     "status": "down",
-    "uptime": "0.19%",
-    "uptimeDay": "0.19%",
-    "uptimeWeek": "0.19%",
-    "uptimeMonth": "0.19%",
-    "uptimeYear": "0.19%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 7019,
     "timeDay": 7019,
     "timeWeek": 7019,
     "timeMonth": 7019,
     "timeYear": 7019,
     "dailyMinutesDown": {
-      "2024-12-30": 174
+      "2024-12-30": 184
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://search.bzmb.eu",
     "icon": "https://icons.duckduckgo.com/ip3/search.bzmb.eu.ico",
     "slug": "search",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1426,
-    "timeDay": 1426,
-    "timeWeek": 1426,
-    "timeMonth": 1426,
-    "timeYear": 1426,
+    "status": "up",
+    "uptime": "94.68%",
+    "uptimeDay": "94.68%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "94.68%",
+    "uptimeYear": "94.68%",
+    "time": 1583,
+    "timeDay": 1583,
+    "timeWeek": 1583,
+    "timeMonth": 1583,
+    "timeYear": 1583,
     "dailyMinutesDown": {
-      "2024-12-30": 0
+      "2024-12-30": 10
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeMonth": 827,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2024-12-30": 174
+      "2024-12-30": 184
     }
   },
   {
