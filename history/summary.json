@@ -36,7 +36,7 @@
     "timeMonth": 5916,
     "timeYear": 5916,
     "dailyMinutesDown": {
-      "2025-01-01": 958,
+      "2025-01-01": 969,
       "2024-12-31": 1440,
       "2024-12-30": 1174
     }
@@ -58,7 +58,7 @@
     "timeMonth": 6996,
     "timeYear": 6996,
     "dailyMinutesDown": {
-      "2025-01-01": 958,
+      "2025-01-01": 969,
       "2024-12-31": 1440,
       "2024-12-30": 1173
     }
@@ -68,19 +68,19 @@
     "url": "https://search.bzmb.eu",
     "icon": "https://icons.duckduckgo.com/ip3/search.bzmb.eu.ico",
     "slug": "search",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 1435,
-    "timeDay": 983,
-    "timeWeek": 1435,
-    "timeMonth": 1435,
-    "timeYear": 1435,
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
+    "time": 1329,
+    "timeDay": 839,
+    "timeWeek": 1329,
+    "timeMonth": 1329,
+    "timeYear": 1329,
     "dailyMinutesDown": {
-      "2025-01-01": 0,
+      "2025-01-01": 11,
       "2024-12-31": 12,
       "2024-12-30": 10
     }
@@ -91,11 +91,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agar.bzmb.eu.ico",
     "slug": "agar",
     "status": "up",
-    "uptime": "95.01%",
+    "uptime": "95.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.01%",
-    "uptimeMonth": "95.01%",
-    "uptimeYear": "95.01%",
+    "uptimeWeek": "95.03%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "95.03%",
     "time": 816,
     "timeDay": 761,
     "timeWeek": 816,
@@ -122,7 +122,7 @@
     "timeMonth": 755,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2025-01-01": 958,
+      "2025-01-01": 969,
       "2024-12-31": 1440,
       "2024-12-30": 1173
     }
