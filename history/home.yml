@@ -1,7 +1,7 @@
 url: https://bzmb.eu
-status: up
-code: 200
-responseTime: 923
-lastUpdated: 2025-02-05T23:04:10.750Z
+status: down
+code: 502
+responseTime: 10206
+lastUpdated: 2025-02-06T13:03:30.517Z
 startTime: 2024-12-30T04:26:09.123Z
 generator: Upptime <https://github.com/upptime/upptime>
