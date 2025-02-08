@@ -1,7 +1,7 @@
 url: https://search.bzmb.eu
-status: up
-code: 200
-responseTime: 865
-lastUpdated: 2025-02-07T23:04:06.081Z
+status: down
+code: 502
+responseTime: 10735
+lastUpdated: 2025-02-08T21:16:56.439Z
 startTime: 2024-12-30T04:26:51.017Z
 generator: Upptime <https://github.com/upptime/upptime>
