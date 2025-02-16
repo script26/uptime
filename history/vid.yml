@@ -1,7 +1,7 @@
 url: https://vid.bzmb.eu
-status: up
-code: 200
-responseTime: 912
-lastUpdated: 2025-02-15T23:09:33.077Z
+status: down
+code: 502
+responseTime: 314
+lastUpdated: 2025-02-16T15:57:18.716Z
 startTime: 2024-12-30T04:26:28.302Z
 generator: Upptime <https://github.com/upptime/upptime>
