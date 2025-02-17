@@ -1,7 +1,7 @@
 url: https://agar.bzmb.eu
-status: up
-code: 200
-responseTime: 790
-lastUpdated: 2025-02-17T11:19:54.389Z
+status: down
+code: 502
+responseTime: 251
+lastUpdated: 2025-02-17T22:34:20.224Z
 startTime: 2024-12-30T04:26:52.516Z
 generator: Upptime <https://github.com/upptime/upptime>
